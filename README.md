@@ -25,9 +25,15 @@ AQUAFLOW is an IoT-enabled, solar-powered river trash collection system designed
 
 ---
 
-## 🧠 System Architecture
+🧠 System Architecture
 ![System Architecture](image/aquaflow.jpg)
 
+Dimensions
+![System Architecture](image/dimensions.jpg)
+---
+
+Sample Video (Testing )
+![System Architecture](image/samplevideo.jpg)
 ---
 
 📱 Mobile Application
