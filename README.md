@@ -33,7 +33,7 @@ Dimensions
 ---
 
 Sample Video (Testing )
-![System Architecture](image/samplevideo.jpg)
+![System Architecture](image/samplevideo.mp4)
 ---
 
 📱 Mobile Application
