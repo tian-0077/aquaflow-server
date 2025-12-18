@@ -3,17 +3,18 @@ IoT-Based Solar-Powered River Trash Collector
 
 AQUAFLOW is an IoT-enabled, solar-powered river trash collection system designed to help reduce water pollution by automatically collecting floating waste while providing real-time monitoring through a mobile application.
 
----
+
 
 🚀 Features
 - Solar-powered floating trash collection system
+- Object Detection for automatic trash collection
 - ESP32-based control and monitoring
 - Real-time data monitoring via mobile application
 - Motor-controlled conveyor mechanism
 - Remote monitoring and control
 - Environment-friendly and scalable design
 
----
+
 
 🛠️ Technologies Used
 - Microcontroller: ESP32
@@ -23,7 +24,7 @@ AQUAFLOW is an IoT-enabled, solar-powered river trash collection system designed
 - Database: Firebase Realtime Database
 - Power Source: Solar Panel + Battery
 
----
+
 
 🧠 System Architecture
 <p align="center">
@@ -48,12 +49,19 @@ The mobile app allows users to:
 ---
 
  Hardware Components
-- ESP32
+- ESP32 Microcontroller
+- ESP32 Camera (Object Detection)
 - Solar Panel
 - Lead acid Battery
-- Motor Driver
-- DC Motors
+- Weight sensor
+- RC ESC Brushed Brush Speed Controller
+- Brush Motor
+- Gear Motor
 - Trash Conveyor System
+
+Software Tools
+- Visual Studio Code
+- Fritzing
 
 
 
